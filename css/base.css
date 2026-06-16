@@ -126,6 +126,18 @@ a:focus {
 	line-height: 1;
 	font-family: afronaut, serif;
 	font-weight: 300;
+	letter-spacing: -0.5vw;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.content__icon {
+	width: 6vw;
+	height: 6vw;
+	position: relative;
+	top: -2vw;
+	margin-left: 0.5vw;
 }
 
 @media screen and (min-width: 53em) {
