@@ -124,6 +124,7 @@ a:focus {
 	font-size: 10vw;
 	color: var(--color-title);
 	line-height: 1;
+	font-family: afronaut, serif;
 }
 
 @media screen and (min-width: 53em) {
