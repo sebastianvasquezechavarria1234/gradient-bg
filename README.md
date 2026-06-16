@@ -1,1 +1,1 @@
-![Genesis Pixel](img/favicon.jpg)
+![Gradient Blur](img/preview.jpg)
